@@ -15,7 +15,7 @@ specific symbol | !@#$%^&*?/.\
 - 
 
 
-### 密码强度检验标准
+### Password strength inspection standard
 - max 5/5
 - every charset 1/5
 - length >=8  1/5
